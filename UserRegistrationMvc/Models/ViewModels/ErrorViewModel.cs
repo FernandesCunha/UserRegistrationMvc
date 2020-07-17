@@ -1,6 +1,6 @@
 using System;
 
-namespace UserRegistrationMvc.Models
+namespace UserRegistrationMvc.Models.ViewModels
 {
     public class ErrorViewModel
     {
